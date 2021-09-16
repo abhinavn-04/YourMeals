@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/YourMeals/static/css/main.bf8df6c3.chunk.css",
+    "main.js": "/YourMeals/static/js/main.7bfd4c27.chunk.js",
+    "main.js.map": "/YourMeals/static/js/main.7bfd4c27.chunk.js.map",
+    "runtime-main.js": "/YourMeals/static/js/runtime-main.69db4028.js",
+    "runtime-main.js.map": "/YourMeals/static/js/runtime-main.69db4028.js.map",
+    "static/js/2.00f72975.chunk.js": "/YourMeals/static/js/2.00f72975.chunk.js",
+    "static/js/2.00f72975.chunk.js.map": "/YourMeals/static/js/2.00f72975.chunk.js.map",
+    "index.html": "/YourMeals/index.html",
+    "static/css/main.bf8df6c3.chunk.css.map": "/YourMeals/static/css/main.bf8df6c3.chunk.css.map",
+    "static/js/2.00f72975.chunk.js.LICENSE.txt": "/YourMeals/static/js/2.00f72975.chunk.js.LICENSE.txt",
+    "static/media/background.b2762b4c.jpg": "/YourMeals/static/media/background.b2762b4c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69db4028.js",
+    "static/js/2.00f72975.chunk.js",
+    "static/css/main.bf8df6c3.chunk.css",
+    "static/js/main.7bfd4c27.chunk.js"
+  ]
+}
